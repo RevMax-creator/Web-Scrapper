@@ -24,7 +24,7 @@ This project is suitable for developers, data analysts, and enthusiasts looking 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/python-web-scraper.git
+   git clone https://github.com/RevMax-creator/Web-Scrapper.git
    ```
 
 2. Navigate to the project directory:
